@@ -1,6 +1,6 @@
 /*
 *   code metode penjadwalan , Round robin, SJF dan FCFS
-*   soruce tersedia di : https://github.com/muammarZA/ZPro/tree/master/Penjadwalan
+*   soruce tersedia di : https://github.com/muammarZA/Java-penjadwalan
 *   Pada program ini hanya dijelaskan bagaimana implementasi mendasar untuk 3 metode diatas.
 *
 *
